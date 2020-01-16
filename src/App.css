@@ -1,0 +1,90 @@
+.App {
+  background-color:gainsboro;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+  margin-right:20px;
+  margin-top: 20px;
+  height: 700px;
+  
+}
+.d1{
+  margin-top: 10px;
+  background-color:white;
+
+
+}
+.d2{
+  background-color:white;
+
+
+}
+.d3{
+  background-color:white;
+  width: 85%;
+  margin-top: 345px;
+  height:105%;
+  
+
+
+}
+.d4{
+  background-color:white;
+  width: 85%;
+  height:105%;
+
+
+}
+.chrt{
+  height: 40%;
+  width: 40%;
+  align-items: center;
+  justify-content: center;
+  margin-left: 1%;
+   
+}
+.chrt1{
+  height: 40%;
+  width:40%;
+  margin-top:-625px;
+  margin-left: 65%;
+  align-items: center;
+  justify-content: center;
+ 
+   
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  height: 5vh;
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-right:1px;
+  margin-left:1px
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
